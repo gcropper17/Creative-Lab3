@@ -1,0 +1,48 @@
+h1 {
+    font-size: 50px;
+    padding: 10px;
+}
+.housePhotos {
+    display: flex;
+    justify-content: center;
+
+}
+
+.houseinfo {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    
+    font-size: 40px;
+}
+
+.house1info {
+    padding-left: 158px;
+
+}
+.house2info {
+    padding-left: 138px;
+}
+.button {
+    background-color: dodgerblue;
+    border: none;
+    color: white;
+    padding: 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 200px;
+    margin: 4px 2px;
+    border-radius: 50%;
+    font-size: 10px;
+}
+.footer {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-top: 5px;
+    padding-top: 20px;
+    background-color: dodgerblue;
+    position: absolute;
+    width: 100%;
+}
